@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/JSONEXAMPLE-CGI.dir/jsonExample-cgi.c.o  -o JSONEXAMPLE-CGI 

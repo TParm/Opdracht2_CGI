@@ -1,0 +1,26 @@
+[
+    {
+        "name": "mercedes",
+        "model": "e220",
+        "color": "black",
+        "year":"2002"
+    },
+    {
+        "name": "bmw",
+        "model": "M5",
+        "color": "grey",
+        "year":"2004"
+    },
+    {
+        "name": "Audi",
+        "model": "s5",
+        "color": "blue",
+        "year":"2007"
+    },
+    {
+        "name": "Ford",
+        "model": "Fiest",
+        "color": "white",
+        "year":"2008"
+    }
+]

@@ -1,0 +1,1 @@
+/usr/bin/cc   -rdynamic CMakeFiles/viewdata-CGI.dir/viewdata.c.o  -o viewdata-CGI 
