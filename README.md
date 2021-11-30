@@ -1,2 +1,2 @@
-# Opdracht2_CGI
+# Opdracht2_EmbeddedSystems
 Opdracht2 CGI
