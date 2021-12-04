@@ -6,9 +6,13 @@
 
 #IncludeRegexTransform: 
 
-/home/pi/Documents/projects/Embed2-Opdracht2-main/jsonExample-cgi.c
+/home/pi/Documents/opdrachten/opdracht2/Opdracht2-CGI/jsonExample-cgi.c
 stdio.h
 -
 stdlib.h
+-
+string.h
+-
+time.h
 -
 

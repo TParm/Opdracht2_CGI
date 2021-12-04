@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "/home/pi/Documents/projects/Embed2-Opdracht2-main/jsonExample-cgi.c" "/home/pi/Documents/projects/Embed2-Opdracht2-main/build/CMakeFiles/JSONEXAMPLE-CGI.dir/jsonExample-cgi.c.o"
+  "/home/pi/Documents/opdrachten/opdracht2/Opdracht2-CGI/jsonExample-cgi.c" "/home/pi/Documents/opdrachten/opdracht2/Opdracht2-CGI/build/CMakeFiles/JSONEXAMPLE-CGI.dir/jsonExample-cgi.c.o"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
